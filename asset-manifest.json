@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coloroll/static/css/main.4bfe8c95.css",
+    "main.js": "/coloroll/static/js/main.15bd5ba4.js",
+    "index.html": "/coloroll/index.html",
+    "main.4bfe8c95.css.map": "/coloroll/static/css/main.4bfe8c95.css.map",
+    "main.15bd5ba4.js.map": "/coloroll/static/js/main.15bd5ba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfe8c95.css",
+    "static/js/main.15bd5ba4.js"
+  ]
+}
