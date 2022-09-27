@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/coloroll/static/css/main.4bfe8c95.css",
-    "main.js": "/coloroll/static/js/main.15bd5ba4.js",
-    "index.html": "/coloroll/index.html",
-    "main.4bfe8c95.css.map": "/coloroll/static/css/main.4bfe8c95.css.map",
-    "main.15bd5ba4.js.map": "/coloroll/static/js/main.15bd5ba4.js.map"
+    "main.css": "/corol/static/css/main.4bfe8c95.css",
+    "main.js": "/corol/static/js/main.15bd5ba4.js",
+    "index.html": "/corol/index.html",
+    "main.4bfe8c95.css.map": "/corol/static/css/main.4bfe8c95.css.map",
+    "main.15bd5ba4.js.map": "/corol/static/js/main.15bd5ba4.js.map"
   },
   "entrypoints": [
     "static/css/main.4bfe8c95.css",
