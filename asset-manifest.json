@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/corol/static/css/main.4bfe8c95.css",
-    "main.js": "/corol/static/js/main.e4145ddb.js",
+    "main.css": "/corol/static/css/main.2be494aa.css",
+    "main.js": "/corol/static/js/main.8f73b020.js",
     "index.html": "/corol/index.html",
-    "main.4bfe8c95.css.map": "/corol/static/css/main.4bfe8c95.css.map",
-    "main.e4145ddb.js.map": "/corol/static/js/main.e4145ddb.js.map"
+    "main.2be494aa.css.map": "/corol/static/css/main.2be494aa.css.map",
+    "main.8f73b020.js.map": "/corol/static/js/main.8f73b020.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bfe8c95.css",
-    "static/js/main.e4145ddb.js"
+    "static/css/main.2be494aa.css",
+    "static/js/main.8f73b020.js"
   ]
 }
